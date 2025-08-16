@@ -1,6 +1,3 @@
-# CMakeList.txt: CMake-Projekt für "DynamicTopicLib". Schließen Sie die Quelle ein, und definieren Sie
-# projektspezifische Logik hier.
-#
 cmake_minimum_required (VERSION 3.25..3.32)
 
 # Aktivieren Sie Hot Reload für MSVC-Compiler, sofern unterstützt.

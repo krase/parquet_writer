@@ -1,7 +1,7 @@
 from conan import ConanFile
 from conan.tools.cmake import CMakeToolchain, CMake, cmake_layout, CMakeDeps
 
-class dynamic_topic_libRecipe(ConanFile):
+class Recipe(ConanFile):
     requires = ["arrow/21.0.0"]
 
     generators=[
